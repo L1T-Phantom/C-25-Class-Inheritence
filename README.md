@@ -1,1 +1,2 @@
-# C-25-Class-Inheritence
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
